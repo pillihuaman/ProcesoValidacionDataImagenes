@@ -1,0 +1,12 @@
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\bin\Debug\DataImagenes.exe.config
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\obj\Debug\DataImagenes.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\bin\Debug\WinSCP.exe
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\bin\Debug\DataImagenes.exe
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\bin\Debug\DataImagenes.pdb
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\bin\Debug\MailServices.dll
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\bin\Debug\WinSCPnet.dll
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\bin\Debug\MailServices.pdb
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\obj\Debug\DataImagenes.exe
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\obj\Debug\DataImagenes.pdb
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\obj\Debug\DataImagenes.ProjectInstaller.resources
+C:\Users\user\Documents\ValidacionDataImagenes\DataImagenes\obj\Debug\DataImagenes.csproj.GenerateResource.Cache

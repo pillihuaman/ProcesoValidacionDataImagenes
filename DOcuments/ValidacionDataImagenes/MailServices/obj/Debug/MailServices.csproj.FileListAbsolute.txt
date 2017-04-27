@@ -1,0 +1,6 @@
+C:\Users\user\Documents\ValidacionDataImagenes\MailServices\bin\Debug\MailServices.dll.config
+C:\Users\user\Documents\ValidacionDataImagenes\MailServices\bin\Debug\MailServices.dll
+C:\Users\user\Documents\ValidacionDataImagenes\MailServices\bin\Debug\MailServices.pdb
+C:\Users\user\Documents\ValidacionDataImagenes\MailServices\obj\Debug\MailServices.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ValidacionDataImagenes\MailServices\obj\Debug\MailServices.dll
+C:\Users\user\Documents\ValidacionDataImagenes\MailServices\obj\Debug\MailServices.pdb
